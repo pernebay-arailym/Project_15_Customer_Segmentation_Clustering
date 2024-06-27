@@ -10,10 +10,6 @@
 
 ### Visualization Analysis
 
-#### Bivariate Clustering Plot
-
-![Bivariate Clustering](attachment:/mnt/data/bivariate_cluster.png)
-
 - **Clusters**:
   - The plot shows five distinct clusters (colored differently) identified using the K-Means clustering algorithm.
   - **Stars** in each cluster represent the centroids, which are the average positions of all the data points in that cluster.
